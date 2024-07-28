@@ -14,6 +14,7 @@
   font-family: "Ga Maamli", sans-serif;
   font-weight: 400;
   font-style: normal;
+  
 }
 .ga-maamli-regular {
   font-family: "Ga Maamli", sans-serif;
@@ -111,10 +112,20 @@
   color: rgba(18, 81, 108, 0.864);
   font-size: 15px;
   font-family: "Bungee Spice";
+
+  
   text-align: left;
   display: inline-block;
   padding: 5px;
   min-width: 1200px;
   width: fit-content;
   text-shadow: 8px 8px 8px #427448;
+}
+.marge{
+  font:3d-float ;
+}
+.maggy{
+  font: "font-effect-fire";
+  font-size: xx-large;
+
 }
