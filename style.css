@@ -75,3 +75,37 @@
   background-color: rgba(248, 248, 243, 0);
   text-align: left;
 }
+.fit-content {
+  background-color: rgba(209, 202, 241, 0.955);
+  font-size: 15px;
+  color: beige;
+  display: inline-block;
+  padding: 5px;
+  min-width: 1200px;
+  width: fit-content;
+  text-shadow: 8px 8px 8px #427448;
+}
+.socialMedia {
+  background-color: rgba(209, 202, 241, 0.955);
+  font-size: 8px;
+  font-family: "Ga Maamli";
+  color: rgba(33, 22, 53, 0.41);
+  text-align: center;
+  display: inline-block;
+  padding: 5px;
+  min-width: 1270px;
+  width: fit-content;
+  box-sizing: border-box;
+  text-shadow: 8px 8px 8px #427448;
+}
+.name {
+  color: rgba(18, 81, 108, 0.864);
+  font-size: 15px;
+  font-family: "Bungee Spice";
+  text-align: left;
+  display: inline-block;
+  padding: 5px;
+  min-width: 1200px;
+  width: fit-content;
+  text-shadow: 8px 8px 8px #427448;
+}
