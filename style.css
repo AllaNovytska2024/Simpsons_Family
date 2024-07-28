@@ -1,19 +1,77 @@
+* {
+  box-sizing: border-box;
+  text-align: left;
+  /* font-family подключает шрифт к элементу */
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.ga-maamli-regular {
+  font-family: "Ga Maamli", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.background-imageSimpson {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photoFamily {
+  padding-left: 60px;
+  box-sizing: content-box;
+  background-size: 300px 400px;
+  text-shadow: 8px 8px 8px #427448;
+}
 .title_family {
-    font-family: "Bungee Spice", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-  }
-  .title_homer {
-    font-family: "Ga Maamli", sans-serif;
-    font-weight: bold;
-    font-style: normal;
-    color: red;
-    text-align: center;
-  }
-  .hobby {
-    color: rgb(50, 163, 9);
-  }
-  .food {
-    color: rgb(255, 111, 0);
-  }
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-shadow: 8px 8px 8px #427448;
+}
+.title_homer {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: red;
+  text-align: center;
+  text-shadow: 8px 8px 8px #427448;
+}
+.hobby {
+  color: rgb(50, 163, 9);
+  text-shadow: 8px 8px 8px #427448;
+}
+.food {
+  color: rgb(255, 111, 0);
+  text-shadow: 8px 8px 8px #427448;
+}
+.beouty {
+  color: blue;
+  text-shadow: 8px 8px 8px #427448;
+}
+.text {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 18px;
+  color: rgba(41, 11, 149, 0.919);
+  text-align: left;
+}
+.textFamily {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 18px;
+  color: rgba(63, 17, 232, 0.919);
+  text-align: left;
+}
+.Times_New_Roman {
+  font-family: "Times New Roman";
+  color: red;
+  text-shadow: 8px 8px 8px #427448;
+}
+.box1 {
+  padding-left: 60px;
+  margin: 20px 40px 30px;
+  box-sizing: content-box;
+  background-size: 300px 400px;
+  background-color: rgba(248, 248, 243, 0);
+  text-align: left;
+}
