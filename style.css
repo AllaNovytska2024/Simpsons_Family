@@ -1,0 +1,19 @@
+.title_family {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+  .title_homer {
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: red;
+    text-align: center;
+  }
+  .hobby {
+    color: rgb(50, 163, 9);
+  }
+  .food {
+    color: rgb(255, 111, 0);
+  }
