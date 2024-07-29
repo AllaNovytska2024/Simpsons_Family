@@ -119,3 +119,12 @@
   width: fit-content;
   text-shadow: 8px 8px 8px #427448;
 }
+.font-effect-fire-animation {
+  color: rgb(24, 87, 79);
+  text-shadow: 8px 9px 10px;
+  text-decoration: rgb(82, 132, 116);
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
